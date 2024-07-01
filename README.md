@@ -1,3 +1,13 @@
-# Java Simple Fat-jar QuickStart
+# Voicemeeter Controller Server
 
-Server for [Voicemeeter Controller App](https://github.com/K4M1s/VoicemeeterController)
+## Requirements:
+* JDK 1.8
+* Apache Maven
+
+## Installation:
+
+* Clone https://github.com/mattco98/Voicemeeter-JNA-Interface
+* Run mvn install in it
+* Clone https://github.com/K4M1s/VoicemeeterControllerServer
+* Run mvn package in it
+* Should work 🤞
